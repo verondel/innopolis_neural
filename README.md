@@ -9,11 +9,9 @@
 3. Исследовать влияние различий между узкими и широкими классами на точность классификации.
 
 ## Структура репозитория
-├── **model_training.ipynb**: Jupyter Notebook с кодом для обучения моделей и визуализации результатов.
-├── **model_training.py**: скрипт Python для обучения моделей
-├── **models/**: Папка, содержащая обученные модели (model_fine.keras и model_coarse.keras).
-│   ├── **model_fine.keras**
-│   ├── **model_coarse.keras**
+*  **model_training.ipynb**: Jupyter Notebook с кодом для обучения моделей и визуализации результатов. 
+* **model_training.py**: скрипт Python для обучения моделей 
+* **models/**: Папка, содержащая обученные модели (model_fine.keras и model_coarse.keras). 
 
 
 ## Использование
